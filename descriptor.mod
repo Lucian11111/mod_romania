@@ -4,5 +4,5 @@ tags={
 	"Gameplay"
 }
 name="mod_romania"
-supported_version="1.11.8"
+supported_version="1.11.9"
 remote_file_id="2775629016"
